@@ -4,7 +4,7 @@ Este é um projeto simples de streaming de áudio em Python usando sockets para 
 
 ## Descrição
 
-O objetivo deste projeto é demonstrar como transmitir áudio em tempo real de um cliente para um servidor usando sockets em Python. O cliente grava áudio de seu microfone e o envia para o servidor, que pode reproduzi-lo ou realizar qualquer outro processamento necessário.
+O objetivo deste projeto é demonstrar como transmitir áudio em tempo real de um cliente para um servidor usando sockets em Python. O cliente grava áudio de seu microfone, sendo assim é possivel transmitir até mesmo todo aúdio de um computador a outro com captura em tempo real de sistema com por exemplo o "Mixagem estéreo" da "Realtek High Definition Audio", com isso o envia para o servidor, que pode reproduzi-lo ou realizar qualquer outro processamento necessário.
 
 ## Funcionalidades
 
