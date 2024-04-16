@@ -26,8 +26,10 @@ O objetivo deste projeto é demonstrar como transmitir áudio em tempo real de u
      ```
      pip install -r requirements.txt
      ```
-
-2. **Execução:**
+2.1 **Configuração**
+   - Altere o IP no arquivo audio-client.py para o IP do servidor,
+   - Obs: Aumentando o Frame aumenta a qualidade mas aumenta uso de memória do servidor e cliente. 
+2.2 **Execução:**
    - Inicie o servidor:
      ```
      python audio.py
