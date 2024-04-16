@@ -16,11 +16,11 @@ O objetivo deste projeto é demonstrar como transmitir áudio em tempo real de u
 1. **Instalação:**
    - Clone este repositório em sua máquina local:
      ```
-     git clone https://github.com/seu-usuario/audio-streaming-python.git
+     git clone https://www.github.com/danielguirra/audio-stream-python.git
      ```
    - Navegue até o diretório do projeto:
      ```
-     cd audio-streaming-python
+     cd audio-stream-python
      ```
    - Instale as dependências:
      ```
@@ -30,11 +30,11 @@ O objetivo deste projeto é demonstrar como transmitir áudio em tempo real de u
 2. **Execução:**
    - Inicie o servidor:
      ```
-     python server.py
+     python audio.py
      ```
    - Inicie o cliente:
      ```
-     python client.py
+     python audio-client.py
      ```
    - Siga as instruções para gravação e transmissão de áudio.
 
